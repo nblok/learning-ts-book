@@ -1,0 +1,29 @@
+{
+  "name": "learning-ts-book",
+  "version": "1.0.0",
+  "description": "Learning TypeScript Book Code (Packt)",
+  "main": "main.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nblok/learning-ts-book.git"
+  },
+  "keywords": [
+    "Learning",
+    "TypeScript"
+  ],
+  "author": "Nathan Blok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nblok/learning-ts-book/issues"
+  },
+  "homepage": "https://github.com/nblok/learning-ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
