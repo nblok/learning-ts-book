@@ -1,0 +1,31 @@
+{
+  "name": "learning-ts-book",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nblok/learning-ts-book",
+  "authors": [
+    "Nathan Blok <ndblok@gmail.com>"
+  ],
+  "description": "Learning TypeScript Book Code",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "Book",
+    "Code",
+    "TypeScript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#~2.3.4"
+  }
+}
